@@ -1,4 +1,4 @@
-# Basic_Machine_Learning_Programs
+# Machine Learning Projects - Academic
 
 **Machine Learning Experiments Repository**
 
